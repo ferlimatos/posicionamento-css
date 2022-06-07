@@ -1,10 +1,8 @@
-<img src="./posicionamento-bicraft.jpg" alt="resultado final do projeto">
-
 # Estudo de CSS
 
 Esse é um estudo de caso para colocar em prática os conceitos de posicionamento de elementos utilizando CSS, ensinado pelo professor André Rafael da Origamid.
 
-[Visualizar projeto ao vivo]()
+[Visualizar projeto ao vivo](https://ferlimatos.github.io/posicionamento-css/)
 
 ## Ferramentas
 
